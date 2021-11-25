@@ -12,8 +12,7 @@
 * Gradle 6.3
 
 ### Branches
-* Master (contém o código do último vídeo)  - `pt-master` 
-* Vídeo 1 - `pt-01-projeto-inicial`
+* Master  - `main` 
 
 ### Comandos
 * `gradle init` - criar um projeto gradle
@@ -33,8 +32,7 @@
 * Gradle 6.3
 
 ### Branches
-* Master (has the code from the last video)  - `en-master` 
-* Video 1 - `en-01-initial-project`
+* Master - `main` 
 
 
 ### Commands
